@@ -14,13 +14,10 @@ To solve this issue you need to move to the dev channel of flutter which is curr
 
 ```sh
 $ flutter --version
-Flutter 1.5.8 • channel dev • https://github.com/flutter/flutter.git
-Framework • revision 0ba67226ee (4 days ago) • 2019-04-24 17:18:28 -0700
-Engine • revision c63d1cf9c9
-Tools • Dart 2.1.0 (build 2.3.0-dev.0.1 1f1592edce)
+Tools • Dart 2.1.x
 ```
 
-You can see that `Tools • Dart 2.1.0 (build 2.3.0-dev.0.1 1f1592edce)` version is 2.1.0 ( < 2.2.0 ). So you need to change the channel, Here is instruction for changing the channel.
+You can see that `Tools • Dart 2.1.x` version is 2.1.0 ( < 2.2.0 ). So you need to change the channel, Here is instruction for changing the channel.
 
 ### To change the Channel
 
