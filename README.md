@@ -2,6 +2,12 @@
 
 A new Flutter application with GraphQL.
 
+###  Leatn about this at
+
+Medium : [Flutter with GraphQL](https://medium.com/@nitishk72/graphql-with-flutter-d974abcd2ccc)
+
+Youtube: [Flutter with GraphQL](https://www.youtube.com/watch?v=Re7FPa3wzN0)
+
 ## Getting Started
 
 This app is using [graphql-flutter](https://github.com/zino-app/graphql-flutter#readme) Dependency. I am using version 1.0.0 of this plugin.
