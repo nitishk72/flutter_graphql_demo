@@ -2,7 +2,7 @@
 
 A new Flutter application with GraphQL.
 
-###  Leatn about this at
+###  Learn about this at
 
 Medium : [Flutter with GraphQL](https://medium.com/@nitishk72/graphql-with-flutter-d974abcd2ccc)
 
