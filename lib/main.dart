@@ -29,6 +29,7 @@ class MyApp extends StatelessWidget {
 }
 
 class HomePage extends StatelessWidget {
+
   final String query = r"""
                     query GetContinent($code : String!){
                       continent(code:$code){
