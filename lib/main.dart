@@ -2,10 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:graphql_flutter/graphql_flutter.dart';
 
 void main() {
-  runApp(MaterialApp(
-    title: "GQL App",
-    home: MyApp(),
-  ));
+  runApp(MaterialApp(title: "GQL App", home: MyApp()));
 }
 
 class MyApp extends StatelessWidget {
